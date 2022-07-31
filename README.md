@@ -6,6 +6,7 @@ C++ was designed with an orientation toward systems programming and embedded, re
 
 1 - Introduction
 	Standard C++ Essential Training.txt
+	
 2 - 1. Basic Syntax
 	0. hello
 	1. identifiers
