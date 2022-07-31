@@ -1,0 +1,26 @@
+The value of x is 5
+The value of *ip is 5
+The value of y is 5
+
+The value of x is 64
+The value of *ip is 64
+The value of y is 64
+
+The value of x is 27
+The value of *ip is 27
+The value of y is 27
+
+The value of x is 33
+The value of *ip is 33
+The value of y is 33
+
+The value of x is 33
+The value of *ip is 123
+The value of y is 33
+The value of z is 123
+
+The value of x is 123
+The value of *ip is 123
+The value of y is 123
+The value of z is 123
+
