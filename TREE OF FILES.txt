@@ -1,0 +1,400 @@
+Folder PATH listing
+|   README - Standard C++ Essential Training.txt
+|   TREE OF FILES.txt
+|   
+|   
++---01 - Introduction
+|       Standard C++ Essential Training.txt
+|       
++---02 - 1. Basic Syntax
+|   +---00. hello
+|   |       hello.cpp
+|   |       
+|   +---01. identifiers
+|   |       1.png
+|   |       2.png
+|   |       3.png
+|   |       4.png
+|   |       
+|   +---02. variables
+|   |       variables.cpp
+|   |       
+|   +---03. pointers
+|   |       pointers.cpp
+|   |       
+|   +---04. references
+|   |       output.txt
+|   |       references.cpp
+|   |       
+|   +---05. arrays and strings
+|   |       arrays&strings.cpp
+|   |       
+|   +---06. conditionals
+|   |       conditionals.cpp
+|   |       
+|   +---07. switch statements
+|   |       switch.cpp
+|   |       
+|   +---08. while and do while
+|   |       while&do.cpp
+|   |       
+|   +---09. for loop
+|   |       for.cpp
+|   |       
+|   +---10. range-based for loop
+|   |       range based for loop array input.png
+|   |       range-basedfor.cpp
+|   |       
+|   \---11. using stdout
+|           size.png
+|           stdout.cpp
+|           
++---03 - 2. Defining Functions
+|   +---12. functions
+|   |       functions.cpp
+|   |       
+|   +---13. call by value
+|   |       callbyvalue.cpp
+|   |       
+|   +---14. call by reference
+|   |       callbyreference.cpp
+|   |       
+|   +---15. function signature
+|   |       functionsignature.cpp
+|   |       
+|   +---16. defining a function
+|   |       func.h
+|   |       function.cpp
+|   |       
+|   +---17. functions - passing values
+|   |       functionspassval.cpp
+|   |       
+|   +---18. automatic and static variables
+|   |       auto&static.cpp
+|   |       
+|   +---19. functions - returning values
+|   |       functionsreturnval.cpp
+|   |       
+|   +---20. function pointers
+|   |       functionpointers.cpp
+|   |       
+|   +---21. jump table
+|   |       jumptable.cpp
+|   |       
+|   +---22. overloading function names
+|   |       overloadfuncname.cpp
+|   |       
+|   +---23. overloading operators with functions
+|   |       overloadopwfunc.cpp
+|   |       
+|   +---24. defining a variable number of arguments
+|   |       variadic.cpp
+|   |       
+|   \---25. recursion
+|           recursion.cpp
+|           
++---04 - 3. The Preprocessor
+|   +---26. preprocessor
+|   |       preprocessor, compiler, optimizer, and linker.png
+|   |       preprocessor.cpp
+|   |       
+|   +---27. macros
+|   |       macros.cpp
+|   |       
+|   +---28. inlcuding files
+|   |       headerfiles.cpp
+|   |       preproc.h
+|   |       
+|   +---29. conditional compilation
+|   |       conditional.h
+|   |       conditionalcompilation.cpp
+|   |       
+|   +---30. defining macros
+|   |       definingmacros.cpp
+|   |       
+|   +---31. macro caveats
+|   |       macrocaveats.cpp
+|   |       
+|   +---32. line continuation with backslash
+|   |       linecontinuationwbs.cpp
+|   |       
+|   +---33. including files only once
+|   |       includeA.h
+|   |       includeB.h
+|   |       includeC.h
+|   |       pragma.cpp
+|   |       
+|   \---34. header files
+|           headerfile.cpp
+|           main.h
+|           
++---05 - 4. Classes and Objects
+|   +---35. classes and objects
+|   |       classes&objects.cpp
+|   |       
+|   +---36. defining a class
+|   |       class.cpp
+|   |       
+|   +---37. data members
+|   |       datamembers.cpp
+|   |       
+|   +---38. function members
+|   |       functionmembers.cpp
+|   |       
+|   +---39. constructors and destructors
+|   |       constructor&destructor.cpp
+|   |       defaultconstructdestruct.cpp
+|   |       
+|   +---40. implicit vs. explicit constructors
+|   |       implicitexplicit.cpp
+|   |       
+|   +---41. namespaces
+|   |       namespaces.cpp
+|   |       
+|   +---42. this keyword
+|   |       this.cpp
+|   |       
+|   +---43. overloading operators with member functions
+|   |       rational.cpp
+|   |       
+|   +---44. overloading operators with nonmember functions
+|   |       rational.cpp
+|   |       
+|   +---45. conversion operators
+|   |       rational.cpp
+|   |       
+|   +---46. creating and destroying objects with new and delete
+|   |       new&delete.cpp
+|   |       
+|   +---47. exceptions
+|   |       exceptions.cpp
+|   |       
+|   +---48. creating function objects
+|   |       functionobjects.cpp
+|   |       
+|   \---49. converting numbers to words
+|           numword-test.cpp
+|           numword.cpp
+|           numword.h
+|           
++---06 - 5. Data Types
+|   +---50. data types
+|   |       datatypes.cpp
+|   |       
+|   +---51. integer types
+|   |       integertypes.cpp
+|   |       
+|   +---52. floating-point types
+|   |       floating-pointtypes.cpp
+|   |       
+|   +---53. characters and strings
+|   |       characters&strings.cpp
+|   |       
+|   +---54. character-escape sequences
+|   |       Character Escape Sequence (full table).png
+|   |       character-escapesequences.cpp
+|   |       
+|   +---55. qualifiers
+|   |       qualifiers.cpp
+|   |       
+|   +---56. the c++ reference type
+|   |       referencetype.cpp
+|   |       
+|   +---57. structured data
+|   |       structureddata.cpp
+|   |       
+|   +---58. bit fields
+|   |       bitfields.cpp
+|   |       
+|   +---59. enumerations
+|   |       enum.cpp
+|   |       
+|   +---60. unions
+|   |       union.cpp
+|   |       
+|   +---61. defining types with typedef
+|   |       typedef.cpp
+|   |       
+|   +---62. the void type
+|   |       voidtype.cpp
+|   |       
+|   +---63. the auto type
+|   |       autotype.cpp
+|   |       range based for loop array input.png
+|   |       
+|   \---64. the unambiguous null pointer constant
+|           nullptr.cpp
+|           
++---07 - 6. Operators
+|   +---65. common operators
+|   |       commonoperators.cpp
+|   |       
+|   +---66. compound assignment operators
+|   |       compoundassignop.cpp
+|   |       
+|   +---67. increment&decrement
+|   |       incr&decr.cpp
+|   |       increment&decrement.cpp
+|   |       
+|   +---68. comparison (relational) operators
+|   |       comparisonop.cpp
+|   |       
+|   +---69. logical operators
+|   |       logicalop.cpp
+|   |       
+|   +---70. bitwise operators
+|   |       bprint.cpp
+|   |       
+|   +---71. the ternary conditional operator
+|   |       ternarycondop.cpp
+|   |       
+|   +---72. determining the size of a type with sizeof
+|   |       sizeof.cpp
+|   |       
+|   +---73. determining the type of an object with typeid
+|   |       typeid.cpp
+|   |       
+|   \---74. operator precedence
+|           C and C++ Operator Precedence Bill Weinman.pdf
+|           operatorprecedence.cpp
+|           
++---08 - 7. Object Inheritance
+|   +---75. overview of class inheritance
+|   |       Class Inheritance.png
+|   |       classinheritance.cpp
+|   |       Member Access Specifiers.png
+|   |       Overloading Membes.png
+|   |       
+|   +---76. simple inheritance
+|   |       simpleinheritance.cpp
+|   |       
+|   +---77. accessing the base class
+|   |       simpleinheritance.cpp
+|   |       
+|   +---78. friendship
+|   |       friend&inheritance.cpp
+|   |       
+|   +---79. multiple inheritance
+|   |       multipleinheritance.cpp
+|   |       
+|   \---80. overloading methods and exploring polymorphism
+|           overloading&overridingf.cpp
+|           
++---09 - 8. Templates
+|   +---81. understanding templates
+|   |       template.cpp
+|   |       
+|   +---82. template functions
+|   |       templatefunction.cpp
+|   |       
+|   +---83. template classes
+|   |       templateclass.cpp
+|   |       
+|   \---84. type inference
+|           decltype.cpp
+|           
++---10 - 9. The Standard Library
+|   +---85. c++ standard library
+|   |       cppstandardlibrary.cpp
+|   |       Date and Time.png
+|   |       Error Handling.png
+|   |       File IO.png
+|   |       Header Files (C).png
+|   |       Header Files (C++).png
+|   |       Namespace.png
+|   |       Other Utilities.png
+|   |       Strings.png
+|   |       
+|   +---86. file input and output with stdio
+|   |       file-io.cpp
+|   |       fopen() mode string.png
+|   |       
+|   +---87. file io - structured file
+|   |       fileiostruct.cpp
+|   |       
+|   +---88. file management with stdio
+|   |       filemanagement.cpp
+|   |       
+|   +---89. unformatted character io with stdio
+|   |       unformatchariowstdio.cpp
+|   |       
+|   +---90. formatted character io with stdio
+|   |       a few handy format specifiers.png
+|   |       file.txt
+|   |       Format Specifications in C programming language.jpg
+|   |       formatchariowstdio.cpp
+|   |       printf format objective-c.png
+|   |       
+|   +---91. string - string functions
+|   |       stringfunctions.cpp
+|   |       
+|   +---92. string functions in the standard library
+|   |       string.cpp
+|   |       
+|   +---93. handling system errors
+|   |       errno.cpp
+|   |       
+|   \---94. time and date functions
+|           struct tm layout.png
+|           time.cpp
+|           
++---11 - 10. The Standard Template Library (STL)
+|   +---095. overview of the STL
+|   |       IO Streams.png
+|   |       list.png
+|   |       map.png
+|   |       set.png
+|   |       stack, queue, deque.png
+|   |       stl.cpp
+|   |       string.png
+|   |       vector.png
+|   |       
+|   +---096. vectors
+|   |       vector.cpp
+|   |       
+|   +---097. strings
+|   |       string.cpp
+|   |       
+|   +---098. IO streams
+|   |       iostreamformatting.cpp
+|   |       
+|   +---099. iostream - files
+|   |       iostreamfile.cpp
+|   |       
+|   +---100. iterators
+|   |       iterator.cpp
+|   |       
+|   +---101. lists
+|   |       list.cpp
+|   |       
+|   +---102. pairs
+|   |       pair.cpp
+|   |       
+|   +---103. sets
+|   |       set.cpp
+|   |       
+|   +---104. maps
+|   |       map.cpp
+|   |       
+|   +---105. stacks and queues
+|   |       deque object.png
+|   |       queue object (FIFO).png
+|   |       stack object (LIFO).png
+|   |       stack&queue.cpp
+|   |       
+|   +---106. stack
+|   |       stack.cpp
+|   |       
+|   +---107. queue
+|   |       queue.cpp
+|   |       
+|   +---108. deque
+|   |       deque.cpp
+|   |       
+|   \---109. handling exceptions
+|           exception.cpp
+|           
+\---12 - Conclusion
+    \---110. that is it, C++
+            cpp.cpp
+            
