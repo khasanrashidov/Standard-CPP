@@ -256,6 +256,7 @@ Folder PATH listing
 |   |       
 |   \---74. operator precedence
 |           C and C++ Operator Precedence Bill Weinman.pdf
+|           C and C++ Operator Precedence
 |           operatorprecedence.cpp
 |           
 +---08 - 7. Object Inheritance
