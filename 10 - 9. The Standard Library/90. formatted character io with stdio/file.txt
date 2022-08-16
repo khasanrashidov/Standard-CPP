@@ -1,0 +1,1 @@
+i is 5; li is 1234567890; s is This is a string.
